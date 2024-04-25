@@ -14,12 +14,6 @@ Can KeyBERT keyword extraction results be filtered by cosine similarity for bett
 <br> 
 
 ### How to run the Code:
-* The code uploaded to this repo can be run in the following order, with inputs and outputs available in the "Inputs" and "Outputs" folders uploaded to the repo.
+* The code uploaded to this repo can be run in the following order.
   1. Run "101_data_preprocess.ipynb" to preprocess the modelling data
   2. Run "102_keybert_process.ipynb" to run KeyBERT on the modelling data (text)
-
-<br> 
-
-### Data Folders:
-* The "input" data folder contains the input datasets for the above Jupyter Notebooks.
-* The "output" data folder contains the output files (in Excel format) for the above Jupyter Notebooks.
